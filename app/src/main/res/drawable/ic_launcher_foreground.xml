@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- calculator body -->
+    <path
+        android:fillColor="#3A3D43"
+        android:pathData="M32,22h44a4,4 0 0 1 4,4v56a4,4 0 0 1 -4,4H32a4,4 0 0 1 -4,-4V26a4,4 0 0 1 4,-4z" />
+    <!-- LCD -->
+    <path
+        android:fillColor="#C6D1B5"
+        android:pathData="M34,28h40a2,2 0 0 1 2,2v10a2,2 0 0 1 -2,2H34a2,2 0 0 1 -2,-2V30a2,2 0 0 1 2,-2z" />
+    <!-- shift / alpha -->
+    <path android:fillColor="#E0B13A" android:pathData="M34,48h10v6H34z" />
+    <path android:fillColor="#D6584A" android:pathData="M49,48h10v6H49z" />
+    <!-- keys -->
+    <path android:fillColor="#E8E8E6" android:pathData="M34,60h10v6H34z" />
+    <path android:fillColor="#E8E8E6" android:pathData="M49,60h10v6H49z" />
+    <path android:fillColor="#E8E8E6" android:pathData="M64,60h10v6H64z" />
+    <path android:fillColor="#E8E8E6" android:pathData="M34,70h10v6H34z" />
+    <path android:fillColor="#E8E8E6" android:pathData="M49,70h10v6H49z" />
+    <path android:fillColor="#E8E8E6" android:pathData="M64,70h10v6H64z" />
+    <path android:fillColor="#E0B13A" android:pathData="M64,48h10v6H64z" />
+</vector>
